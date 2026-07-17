@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: vijay3639/mazeimage:latest
+          image: jsnov24/mazeimage:latest
           imagePullPolicy: Always
